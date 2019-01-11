@@ -7,4 +7,4 @@ Etablir **avant** de travailler qui gere les conflits pour un repo donné
 
 Limiter le travail sur 2 "interfaces" à la fois (eg :gitkraken et CLI en meme temps)
 
-Emotesicons, kikoo but usefull to pass emotions (almost as if the name had some hidden meaning)
+Emotesicons, kinda kikoo, but usefull to pass emotions (almost as if the name had some hidden meaning)
