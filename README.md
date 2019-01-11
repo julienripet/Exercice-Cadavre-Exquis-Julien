@@ -14,3 +14,11 @@ Tout a coup est arrive un jeune homme en me criant a l'oreille:
 **Aman Arnaud** est le voisin d'en face. **Matthieu** aussi. **Corneliu** a ma droite. 
 Nous sommes en dans une premiere situation reelle de collaboration chez BeCode. 
 
+# Whoooaaa!
+Mais c'est génial comme principe!!! Incroyablement fabuleux!!!
+Faut que j'en fasse un tableau, obligé!!
+
+| Aman | Arnaud |
+| ----- | ----- |
+| Dev Web | Mobile |
+| @t | BeCode |
